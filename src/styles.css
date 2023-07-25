@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.wrapper {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 20px;
+}
+
+.input {
+  padding: 10px;
+  width: 300px;
+  border-radius: 10px;
+}
